@@ -1,7 +1,7 @@
 # 🍳 Recipe Traffic Prediction
 
-A machine-learning project that predicts whether a recipe is likely to generate high website traffic based on its nutritional information, category, and serving size. The goal is to help a recipe website make data-informed decisions about which recipes to feature.
-
+A machine-learning project that predicts whether a recipe is likely to generate high website traffic based on its nutritional information, category, and serving size.
+Goal: when the model predicts that a recipe will be high-traffic, it should be right at least 80% of the time (precision of 80% or more), while keeping low-traffic recipes off the featured spot.
 ## 🎯 Project Objectives
 
 - Predict whether a recipe will generate high or low website traffic.
